@@ -8,7 +8,7 @@ VidalGB = {
 }
 ```
 
-![Snake animation](https://github.com/VidalGB/VidalGB/blod/main/githubContributionSnake.svg)
+![Snake animation](https://github.com/VidalGB/VidalGB/blob/main/githubContributionSnake.svg)
 
 
 <!--
