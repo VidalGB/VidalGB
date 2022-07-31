@@ -2,9 +2,9 @@
 
 ```py
 VidalGB = {
-  name: "Manuel Vidal García Blanco" as "@VidalGB",
+  name: "Manuel Vidal García Blanco" as "VidalGB",
   code: [Python],
-  learn: "I'm learning the web languages and improving my typing"
+  learning: "I'm learning the web languages and improving my typing"
 }
 ```
 
